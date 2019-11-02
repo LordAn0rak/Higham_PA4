@@ -1,0 +1,3 @@
+Word: goes Count: 5
+Word: it Count: 5
+Word: guillotine Count: 1
